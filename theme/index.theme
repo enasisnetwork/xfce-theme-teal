@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Enasis Network Xfce Teal Numix
+Comment=Teal theme generated using Oomox and Numix
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=enasisnetwork-xfce-theme-teal
+GtkTheme=enasisnetwork-xfce-theme-teal
+IconTheme=enasisnetwork-xfce-theme-teal
+MetacityTheme=enasisnetwork-xfce-theme-teal
